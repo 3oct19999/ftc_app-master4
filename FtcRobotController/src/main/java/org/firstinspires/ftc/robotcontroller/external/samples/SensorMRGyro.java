@@ -65,6 +65,7 @@ public class SensorMRGyro extends LinearOpMode {
   IntegratingGyroscope gyro;
   ModernRoboticsI2cGyro modernRoboticsI2cGyro;
 
+  // hello this is a comment
   // A timer helps provide feedback while calibration is taking place
   ElapsedTime timer = new ElapsedTime();
 
